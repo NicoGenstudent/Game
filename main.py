@@ -12,7 +12,6 @@ from weapon import *
 from sound import *
 from pathfinding import *
 
-#game
 
 class Game:
     def __init__(self):
